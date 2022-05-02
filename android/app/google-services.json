@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874016629890",
+    "project_id": "noonting-bbb0e",
+    "storage_bucket": "noonting-bbb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874016629890:android:29f5c0743e9b5a5f17c09b",
+        "android_client_info": {
+          "package_name": "com.tin.noonting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874016629890-ejohth3ochnql4genh5tlll1lm5t4fqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXVziLFH5Di_WW4SeNzsu0ltBnvpk4Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874016629890-ejohth3ochnql4genh5tlll1lm5t4fqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
